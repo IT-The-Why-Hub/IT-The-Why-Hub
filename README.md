@@ -1,9 +1,8 @@
-## ¡Hola! Soy consultora en el área de Tecnología en The Why Hub
+## ¡Hola! 😀🙌 Soy consultora en el área de Tecnología en The Why Hub 👩‍💻
 
-## ¿Qué es The Why Hub?
+## ¿Qué es The Why Hub? 
 
-The Why Hub es un estudio de diseño y transformación social.
-<img src="https://github.com/TheWhyHub/Im-genes/blob/main/cohete_twh.gif" width="100">
+The Why Hub es un estudio de diseño y transformación social. <img src="https://github.com/TheWhyHub/Im-genes/blob/main/cohete_twh.gif" width="100">
 
 **¿Quieres que tu organización tenga impacto social?**
 
