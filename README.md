@@ -10,22 +10,20 @@ Diseña, mide, evalúa, itera, aprende.
 
 Construimos ecosistemas para el monitoreo, evaluación y aprendizaje utilizando herramientas de diseño simples y ágiles, para que las organizaciones puedan medir y transformar la realidad.
 
-## 💡 ¿Por qué lo hacemos? <img src="https://github.com/IT-The-Why-Hub/Personal/blob/main/cat_twh.gif" width="100">
+## 💡 ¿Por qué lo hacemos? 
 
 Queremos desafiar las respuestas del presente haciendo preguntas que muevan el mundo hacia el futuro. Creemos en el poder del diseño para lograrlo.
 
 
 ## 📈 Proyectos Destacados
 
--  **Proyecto 1: Proyecto 1**  
+-  **Curso para Managers: Aprende conceptos básicos sobre Monitoreo & Evaluación con recursos variados**  
  
 
-- **Proyecto 2: Proyecto 2**  
+- **Consultoría GIZ- SIP: Revisa nuestro trabajo con la GIZ y la Secretaría de Integridad Pública (SIP)**  
   
 
-- **Proyecto 3: Proyecto 3**  
-
-
+---
 
 ## Emprende en un viaje de conocimiento sobre Monitoreo & Evaluación leyendo nuestros artículos: 
 
@@ -36,7 +34,7 @@ Queremos desafiar las respuestas del presente haciendo preguntas que muevan el m
 
 ---
 
-### <img src="https://github.com/TheWhyHub/Im-genes/blob/main/octocat_twh.png " width="100"> Contribución
+### <img src="https://github.com/IT-The-Why-Hub/Personal/blob/main/octocat_twh.png" width="100"> ¡Las contribuciones son bienvenidas! 
 
 ¡Las contribuciones son bienvenidas! Por favor, sigue estos pasos para contribuir:
 
