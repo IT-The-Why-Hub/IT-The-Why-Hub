@@ -1,16 +1,20 @@
--# IT The Why Hub  <img src="https://github.com/TheWhyHub/Im-genes/blob/main/cohete_twh.gif" width="100"> 
+## ¡Hola! Soy consultora en el área de Tecnología en The Why Hub
 
-## Hola! Soy consultora en el área de Tecnología en The Why Hub. TWH es un estudio de diseño y transformación social. 
+## ¿Qué es The Why Hub?
+
+The Why Hub es un estudio de diseño y transformación social.
+<img src="https://github.com/TheWhyHub/Im-genes/blob/main/cohete_twh.gif" width="100">
 
 **¿Quieres que tu organización tenga impacto social?**
 
 Diseña, mide, evalúa, itera, aprende.
 
-Construimos (eco)sistemas para el monitoreo, evaluación y aprendizaje utilizando herramientas del diseño, simples y ágiles, para que las organizaciones puedan medir y transformar la realidad.
+Construimos ecosistemas para el monitoreo, evaluación y aprendizaje utilizando herramientas de diseño simples y ágiles, para que las organizaciones puedan medir y transformar la realidad.
 
 ### 💡 ¿Por qué lo hacemos?
 
-Queremos desafiar las respuestas del presente haciendo preguntas que muevan el mundo hacia el futuro y creemos en el poder del diseño para lograrlo.
+Queremos desafiar las respuestas del presente haciendo preguntas que muevan el mundo hacia el futuro. Creemos en el poder del diseño para lograrlo.
+
 
 ### 📈 Proyectos Destacados
 
