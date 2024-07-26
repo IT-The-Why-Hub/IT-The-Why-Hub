@@ -10,12 +10,12 @@ Diseña, mide, evalúa, itera, aprende.
 
 Construimos ecosistemas para el monitoreo, evaluación y aprendizaje utilizando herramientas de diseño simples y ágiles, para que las organizaciones puedan medir y transformar la realidad.
 
-### 💡 ¿Por qué lo hacemos? <img src="https://github.com/IT-The-Why-Hub/Personal/blob/main/cat_twh.gif">
+## 💡 ¿Por qué lo hacemos? <img src="https://github.com/IT-The-Why-Hub/Personal/blob/main/cat_twh.gif" width="100">
 
 Queremos desafiar las respuestas del presente haciendo preguntas que muevan el mundo hacia el futuro. Creemos en el poder del diseño para lograrlo.
 
 
-### 📈 Proyectos Destacados
+## 📈 Proyectos Destacados
 
 -  **Proyecto 1: Proyecto 1**  
  
@@ -27,7 +27,7 @@ Queremos desafiar las respuestas del presente haciendo preguntas que muevan el m
 
 
 
-### <img src="https://github.com/TheWhyHub/Im-genes/blob/main/cat_twh.gif"  width="100" > Emprende en un viaje de conocimiento sobre Monitoreo & Evaluación leyendo nuestros artículos: 
+## Emprende en un viaje de conocimiento sobre Monitoreo & Evaluación leyendo nuestros artículos: 
 
 <div align="left"><a href="">📚 El enemigo común: sesgos </div>
 <div align="left"><a href="https://www.thewhyhub.com/post/cu%C3%A1l-es-la-diferencia-entre-la-l%C3%ADnea-de-base-y-el-diagnostico-de-nuestro-proyecto">📚 ¿Cuál es la diferencia entre la Línea de Base y el Diagnostico de nuestro proyecto?</div>
