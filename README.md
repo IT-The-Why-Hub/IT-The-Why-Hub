@@ -1,4 +1,4 @@
-## ¡Hola! 😀🙌 Soy consultora en el área de Tecnología en The Why Hub 👩‍💻
+## ¡Hola, soy Frida! 😀🙌 Soy consultora en el área de Tecnología en The Why Hub 👩‍💻
 
 ## 📌 ¿Qué es The Why Hub? <img src="https://github.com/IT-The-Why-Hub/Personal/blob/main/cohete_twh.gif" width="100">
 
