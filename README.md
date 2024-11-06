@@ -1,6 +1,6 @@
 ## ¡Hola, soy Frida! 😀🙌 Soy consultora en el área de Tecnología en The Why Hub 👩‍💻
 
-## <img src="https://github.com/IT-The-Why-Hub/Personal/blob/main/cohete_twh.gif" width="100"> 📌 ¿Qué es The Why Hub? 
+## <img src="https://github.com/IT-The-Why-Hub/Personal/blob/main/cohete_twh.gif" width="100"> ¿Qué es The Why Hub? 
 
 The Why Hub es un estudio de diseño y transformación social. 
 
@@ -10,7 +10,7 @@ Diseña, mide, evalúa, itera, aprende.
 
 Construimos ecosistemas para el monitoreo, evaluación y aprendizaje utilizando herramientas de diseño simples y ágiles, para que las organizaciones puedan medir y transformar la realidad.
 
-## 💡 ¿Por qué lo hacemos? <img src="https://github.com/IT-The-Why-Hub/Personal/blob/main/cat_twh.gif" width="80">
+## <img src="https://github.com/IT-The-Why-Hub/Personal/blob/main/cat_twh.gif" width="80"> ¿Por qué lo hacemos 💡? 
 
 Queremos desafiar las respuestas del presente haciendo preguntas que muevan el mundo hacia el futuro. Creemos en el poder del diseño para lograrlo.
 
