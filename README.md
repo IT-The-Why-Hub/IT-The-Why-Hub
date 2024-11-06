@@ -34,7 +34,7 @@ Queremos desafiar las respuestas del presente haciendo preguntas que muevan el m
 
 ---
 
-### 📬 ¡Las contribuciones son bienvenidas! <img src="https://github.com/IT-The-Why-Hub/Personal/blob/main/octocat_twh.png" width="100">
+### <img src="https://github.com/IT-The-Why-Hub/Personal/blob/main/octocat_twh.png" width="100"> ¡Las contribuciones son bienvenidas! 
 
 ¡Las contribuciones son bienvenidas! Por favor, sigue estos pasos para contribuir:
 
