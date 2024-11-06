@@ -10,7 +10,7 @@ Diseña, mide, evalúa, itera, aprende.
 
 Construimos ecosistemas para el monitoreo, evaluación y aprendizaje utilizando herramientas de diseño simples y ágiles, para que las organizaciones puedan medir y transformar la realidad.
 
-## <img src="https://github.com/IT-The-Why-Hub/Personal/blob/main/cat_twh.gif" width="80"> ¿Por qué lo hacemos 💡? 
+## 💡¿Por qué lo hacemos ? 
 
 Queremos desafiar las respuestas del presente haciendo preguntas que muevan el mundo hacia el futuro. Creemos en el poder del diseño para lograrlo.
 
