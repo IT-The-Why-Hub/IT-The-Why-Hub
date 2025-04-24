@@ -15,13 +15,10 @@ Construimos ecosistemas para el monitoreo, evaluación y aprendizaje utilizando 
 Queremos desafiar las respuestas del presente haciendo preguntas que muevan el mundo hacia el futuro. Creemos en el poder del diseño para lograrlo.
 
 
-## 📈 Proyectos Destacados
+## 📈 Repositorios destacados
 
--  <a href=https://thewhyhub.com/producto/monitore-evaluacion-tomadores-decisiones-asincronico/> Curso Monitoreo & Evaluación para Tomadores de Decisión:
- 
-
-- **Consultoría GIZ- SIP: Revisa nuestro trabajo con la GIZ y la Secretaría de Integridad Pública (SIP)**  
-  
+<div align="left"><a href="https://thewhyhub.com/producto/monitore-evaluacion-tomadores-decisiones-asincronico/"> 📌 Curso Monitoreo & Evaluación para Tomadores de Decisión</div>
+<div align="left"><a href="https://github.com/IT-The-Why-Hub/Diagramas-en-R"> 📌 Diagramas en R: Ejemplos sobre gráficos en R con base a nuestro trabajo con la Consultoría GIZ- SIP: Revisa nuestro trabajo con la GIZ y la Secretaría de Integridad Pública (SIP) </div>
 
 ---
 
