@@ -23,10 +23,10 @@ Queremos desafiar las respuestas del presente haciendo preguntas que muevan el m
 
 ## 🗂️ Emprende en un viaje de conocimiento sobre Monitoreo & Evaluación leyendo nuestros artículos: 
 
-📚[¿Sabes cómo la Ficha Técnica de Indicadores puede ser una herramienta clave para conseguir donantes para tu proyecto?](https://thewhyhub.com/sabes-como-la-ficha-tecnica-de-indicadores-puede-ser-una-herramienta-clave-para-conseguir-donantes-para-tu-proyecto/)
-📚[El barrismo social como un ecosistema medible para el cambio social](https://thewhyhub.com/el-barrismo-social-como-un-ecosistema-medible-para-el-cambio-social/)
-📚[Indicar para avanzar: Estar apurado no equivale a avanzar](https://thewhyhub.com/indicar-para-avanzar-estar-apurado-no-equivale-a-avanzar/)
-📚[Bad data: La intro](https://thewhyhub.com/hello-world/)
+- 📚[¿Sabes cómo la Ficha Técnica de Indicadores puede ser una herramienta clave para conseguir donantes para tu proyecto?](https://thewhyhub.com/sabes-como-la-ficha-tecnica-de-indicadores-puede-ser-una-herramienta-clave-para-conseguir-donantes-para-tu-proyecto/)
+- 📚[El barrismo social como un ecosistema medible para el cambio social](https://thewhyhub.com/el-barrismo-social-como-un-ecosistema-medible-para-el-cambio-social/)
+- 📚[Indicar para avanzar: Estar apurado no equivale a avanzar](https://thewhyhub.com/indicar-para-avanzar-estar-apurado-no-equivale-a-avanzar/)
+- 📚[Bad data: La intro](https://thewhyhub.com/hello-world/)
 ---
 
 ### <img src="https://github.com/IT-The-Why-Hub/Personal/blob/main/octocat_twh.png" width="100"> ¡Las contribuciones son bienvenidas! 
