@@ -17,9 +17,8 @@ Queremos desafiar las respuestas del presente haciendo preguntas que muevan el m
 
 ## 📈 Repositorios destacados
 
-<div align="left"><a href="https://thewhyhub.com/producto/monitore-evaluacion-tomadores-decisiones-asincronico/"> 📌 Curso Monitoreo & Evaluación para Tomadores de Decisión</div>
-<div align="left"><a href="https://github.com/IT-The-Why-Hub/Diagramas-en-R"> 📌 Diagramas en R: Ejemplos sobre gráficos en R con base a nuestro trabajo con la Consultoría GIZ- SIP: Revisa nuestro trabajo con la GIZ y la Secretaría de Integridad Pública (SIP) </div>
-
+- 📌 [Curso Monitoreo & Evaluación para Tomadores de Decisiones:](https://thewhyhub.com/producto/monitore-evaluacion-tomadores-decisiones-asincronico/) Este curso te da las herramientas para diseñar e implementar sistemas de Seguimiento, Evaluación y Aprendizaje (MEL) que convierten datos en decisiones con impacto. Aprendé a usar la evidencia para generar valor real y cumplir con la promesa de tu proyecto.
+- 📌 [Diagramas en R:](https://github.com/IT-The-Why-Hub/Diagramas-en-R) Este repositorio incluye visualizaciones desarrolladas en R, basadas en los análisis realizados en colaboración con la GIZ y la Secretaría de Integridad Pública. 
 ---
 
 ## 🗂️ Emprende en un viaje de conocimiento sobre Monitoreo & Evaluación leyendo nuestros artículos: 
