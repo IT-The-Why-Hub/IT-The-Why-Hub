@@ -17,7 +17,7 @@ Queremos desafiar las respuestas del presente haciendo preguntas que muevan el m
 
 ## 📈 Proyectos Destacados
 
--  **Curso para Managers: Aprende conceptos básicos sobre Monitoreo & Evaluación con recursos variados**  
+-  <a href=https://thewhyhub.com/producto/monitore-evaluacion-tomadores-decisiones-asincronico/> Curso Monitoreo & Evaluación para Tomadores de Decisión:
  
 
 - **Consultoría GIZ- SIP: Revisa nuestro trabajo con la GIZ y la Secretaría de Integridad Pública (SIP)**  
