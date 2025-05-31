@@ -17,7 +17,7 @@ Queremos desafiar las respuestas del presente haciendo preguntas que muevan el m
 
 ## 📈 Repositorios destacados
 
-- 📌 [Curso Monitoreo & Evaluación para Tomadores de Decisiones:](https://thewhyhub.com/producto/monitore-evaluacion-tomadores-decisiones-asincronico/) Este curso te da las herramientas para diseñar e implementar sistemas de Seguimiento, Evaluación y Aprendizaje (MEL) que convierten datos en decisiones con impacto. Aprendé a usar la evidencia para generar valor real y cumplir con la promesa de tu proyecto.
+- 📌 [Curso Monitoreo & Evaluación para Tomadores de Decisiones:](https://thewhyhub.com/producto/monitore-evaluacion-tomadores-decisiones-asincronico/) Este curso te da las herramientas para diseñar e implementar sistemas de Seguimiento, Evaluación y Aprendizaje (MEL) que convierten datos en decisiones con impacto. Aprende a usar la evidencia para generar valor real y cumplir con la promesa de tu proyecto.
 - 📌 [Diagramas en R:](https://github.com/IT-The-Why-Hub/Diagramas-en-R) Este repositorio incluye visualizaciones desarrolladas en R, basadas en los análisis realizados en colaboración con la GIZ y la Secretaría de Integridad Pública. 
 ---
 
